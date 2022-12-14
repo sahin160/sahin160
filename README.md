@@ -4,7 +4,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sahin160&show_icons=true&count_private=true&hide=contribs,issues" alt="sahin160's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahin160&layout=compact&hide=html,css" alt="My Top Langs" />
+  
 </p>
 
 # Merhabalar 
