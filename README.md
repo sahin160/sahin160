@@ -5,6 +5,6 @@ Ben şahin aydoğdu . Giresunluyum.Atatürk üniversitesi elektrik elektronik m�
 Müzik dinlemeyi ve yeni yerler gezmeyi çok severim.  
 
 ## iletişim bilgilerim 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)[link](https://shndgd2828@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aydogdusahin/)
