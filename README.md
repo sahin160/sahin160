@@ -16,7 +16,7 @@ Müzik dinlemeyi ve yeni yerler gezmeyi çok severim.
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aydogdusahin/)
 
-[![Linkedin Badge](https://img.shields.io/badge/sahin160-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sahin-aydogdu])
+[![Linkedin Badge](https://img.shields.io/badge/sahin160-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sahin-aydogdu/])
 
 
 
