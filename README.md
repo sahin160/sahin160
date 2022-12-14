@@ -12,7 +12,7 @@ Ben Şahin AYDOĞDU.Atatürk üniversitesi elektrik elektronik mühendisliği 3.
 Müzik dinlemeyi ve yeni yerler gezmeyi çok severim.  
 
 ## iletişim bilgilerim 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)[link](https://shndgd2828@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor)  [link]  (https://shndgd2828@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aydogdusahin/)
 
