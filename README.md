@@ -1,4 +1,4 @@
-![Lorem picsum gorsel](https://github.com/sahin160/profil/blob/main/600x338Kendi-basina-kod-yazabilen-yapay-zeka-gelistirildi.jpg?raw=true)
+![Lorem picsum gorsel](2.jpg)
 
 # Merhabalar 
 Ben şahin aydoğdu . Giresunluyum.Atatürk üniversitesi elektrik elektronik mühendisliği 3. sınıf öğrencisiyim . elektrik elektronik üzerine çocukluğumdan bu yana ilgi duydum . Beni heyecanlandıran en önemli konular ise Yapay zeka ve robotik . Bu alanda kendimi geliştirmek ve daha çok biligiye erişebilmek için github kullanıyorum .
